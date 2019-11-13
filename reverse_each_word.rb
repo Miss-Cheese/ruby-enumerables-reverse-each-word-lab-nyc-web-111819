@@ -1,6 +1,8 @@
-# def reverse_each_word(array)
-#   yield
-# end
+def reverse_each_word(sentence)
+  puts "1-----------------"
+  puts sentence_array = "Hello there, and how are you?".split(/ /)
+  puts "2-----------------"
+end
+
+
 #
-# reverse_each_word("Hello there, and how are you?") { |index| "#{index.reverse_each_word}"}
-# #
