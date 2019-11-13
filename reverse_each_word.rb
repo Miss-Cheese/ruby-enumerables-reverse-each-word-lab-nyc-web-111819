@@ -1,5 +1,5 @@
 def reverse_each_word(sentence)
-  sentence_array = "Hello there, and how are you?".split(/ /)
+  sentence_array = sentence.split(/ /)
   result = []
   sentence_array.each do |binkbutt|
     result << binkbutt.reverse
