@@ -5,6 +5,6 @@ def reverse_each_word(sentence)
   sentence_array.each do |binkbutt|
     result << binkbutt.reverse
   end
-  result
+
   puts "2-----------------"
 end
